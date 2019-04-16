@@ -14,6 +14,10 @@
 
 ## PHP相关
 
+[yii2-httpclient](https://github.com/yiisoft/yii2-httpclient) - 一个Yii2的http扩展库
+
+[yii2-json-behavior](https://github.com/paulzi/yii2-json-behavior)- 一个Yii2的json行为扩展
+
 [yii2-queue](https://github.com/yiisoft/yii2-queue) - 一个Yii2队列扩展
 
 [yii2-redactor](https://github.com/yiidoc/yii2-redactor) - 一个Yii2集成的富文本编辑器
