@@ -14,6 +14,10 @@
 
 ## PHP相关
 
+[QueryList](https://github.com/jae-jae/querylist) - 一个PHP采集框架
+
+[snoopy](https://github.com/endroy/Snoopy) - 一个PHP采集类
+
 [yii2-httpclient](https://github.com/yiisoft/yii2-httpclient) - 一个Yii2的http扩展库
 
 [yii2-json-behavior](https://github.com/paulzi/yii2-json-behavior)- 一个Yii2的json行为扩展

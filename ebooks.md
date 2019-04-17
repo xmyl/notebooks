@@ -8,6 +8,8 @@
 
 [鸟哥的Linux私房菜](http://cn.linux.vbird.org/linux_basic/linux_basic.php)
 
+[全栈增长工程师指南](https://growth.phodal.com/)
+
 [数据结构思维中文版](https://wizardforcel.gitbooks.io/think-dast/content/)
 
 [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
@@ -27,6 +29,8 @@
 [Real World Haskell 中文版](http://cnhaskell.com/)
 
 [Redis设计与实现（第一版）](http://origin.redisbook.com/)
+
+[ThinkPython 中文翻译版本](https://github.com/cycleuser/ThinkPython-CN)
 
 ## 综合类
 
