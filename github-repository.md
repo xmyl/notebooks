@@ -18,6 +18,8 @@
 
 ## PHP相关
 
+[ezyang/htmlpurifier](https://github.com/ezyang/htmlpurifier) - 一个PHP编写的HTML标签过滤器
+
 [git-bash主题](https://github.com/mavnn/mintty-colors-solarized/blob/master/.minttyrc.dark) - 一个git-bash主题配置方案
 
 [Guzzle](https://github.com/guzzle/guzzle) - 一个PHP HTTP客户端扩展
