@@ -4,9 +4,13 @@
 
 [幕布](https://mubu.com/) - 一款以层级折叠式文字来整理内容的大纲文档工具
 
+[cvmaker](https://cvmkr.com/?lang=zh) - 免费创建、修改简历网站
+
 [bigjpg](http://bigjpg.com/) - AI人工智能图片放大平台
 
 [FOFA](https://fofa.so/) - 网络空间安全搜索引擎
+
+[Metasploit](https://www.metasploit.com/) - 漏洞利用攻击工具
 
 [ProcessOn](https://www.processon.com/) - 一个在线作图工具的聚合平台
 
@@ -15,6 +19,8 @@
 [Smallpdf](https://smallpdf.com/cn) - 功能一应俱全、简单好用的线上 PDF 工具
 
 [UZER.ME](https://www.uzer.me/index.html) - 云端超级应用空间，包括Ai、PS、PPT、Excel等工具
+
+[windows版本的小众软件](https://love.appinn.com/) - Windows版的小众软件集合
 
 ## 导航类
 
