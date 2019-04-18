@@ -18,13 +18,19 @@
 
 ## PHP相关
 
+[git-bash主题](https://github.com/mavnn/mintty-colors-solarized/blob/master/.minttyrc.dark) - 一个git-bash主题配置方案
+
+[Guzzle](https://github.com/guzzle/guzzle) - 一个PHP HTTP客户端扩展
+
 [QueryList](https://github.com/jae-jae/querylist) - 一个PHP采集框架
 
-[snoopy](https://github.com/endroy/Snoopy) - 一个PHP采集类
+[Snoopy](https://github.com/xmyl/Snoopy-2.0) - 一个PHP采集类
 
 [yii2-httpclient](https://github.com/yiisoft/yii2-httpclient) - 一个Yii2的http扩展库
 
 [yii2-json-behavior](https://github.com/paulzi/yii2-json-behavior)- 一个Yii2的json行为扩展
+
+[yii2-phpexcel/moonlandsoft](https://github.com/moonlandsoft/yii2-phpexcel) - 一个PHP导入导出Excel扩展
 
 [yii2-queue](https://github.com/yiisoft/yii2-queue) - 一个Yii2队列扩展
 
