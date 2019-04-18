@@ -6,9 +6,15 @@
 
 [bigjpg](http://bigjpg.com/) - AI人工智能图片放大平台
 
+[FOFA](https://fofa.so/) - 网络空间安全搜索引擎
+
 [ProcessOn](https://www.processon.com/) - 一个在线作图工具的聚合平台
 
+[Shodan](https://www.shodan.io/) - 安全扫描引擎
+
 [Smallpdf](https://smallpdf.com/cn) - 功能一应俱全、简单好用的线上 PDF 工具
+
+[UZER.ME](https://www.uzer.me/index.html) - 云端超级应用空间，包括Ai、PS、PPT、Excel等工具
 
 ## 导航类
 
@@ -29,3 +35,7 @@
 ## 生活类
 
 [10分钟邮箱](https://bccto.me/) - 一个临时邮箱平台
+
+[中国铁路地图](https://www.shodan.io/) - 中国铁路地图线路图
+
+[ZCSSR翻墙平台](https://zcssr.me/) - 翻墙资源平台
