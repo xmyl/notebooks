@@ -2,6 +2,10 @@
 
 ## 学习资料
 
+[awesome-git](https://github.com/hylerrix/awesome-git) - 收集整理一些常用Git教程、工具の资源库
+
+[Git-recipes](https://github.com/geeeeeeeeek/git-recipes/wiki) - Git知识讲解
+
 [StudyBooks](https://github.com/lizhenghn123/StudyBooks) - 一个包括书籍和网址的仓库
 
 ## 博客相关
