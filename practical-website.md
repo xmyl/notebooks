@@ -4,6 +4,8 @@
 
 [幕布](https://mubu.com/) - 一款以层级折叠式文字来整理内容的大纲文档工具
 
+[bigjpg](http://bigjpg.com/) - AI人工智能图片放大平台
+
 [ProcessOn](https://www.processon.com/) - 一个在线作图工具的聚合平台
 
 [Smallpdf](https://smallpdf.com/cn) - 功能一应俱全、简单好用的线上 PDF 工具
@@ -18,7 +20,12 @@
 
 [设计师网址导航](http://webstack.cc/cn/index.html) - 网站收藏夹
 
+[现实君工具箱](http://tool.uixsj.cn/) - 工具箱集合网站
+
 ## 音乐类
 
 [果汁音乐](http://guozhivip.com/yinyue/)
 
+## 生活类
+
+[10分钟邮箱](https://bccto.me/) - 一个临时邮箱平台
