@@ -14,6 +14,8 @@
 
 [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 
+[这本书能让你连接互联网](https://loremwalker.github.io/fq-book/#/README)
+
 [JavaScript编程精解 中文第三版](https://wizardforcel.gitbooks.io/eloquent-js-3e/content/)
 
 [Linux内核文档（中文版）](https://tinylab.gitbooks.io/linux-doc/content/zh-cn/)

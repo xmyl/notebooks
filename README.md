@@ -10,3 +10,5 @@
 
 [实用的网站](./practical-website.md) - 具有实用性的网站
 
+[Ubuntu软件](./ubuntu-software.md)
+
