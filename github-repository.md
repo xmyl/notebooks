@@ -4,6 +4,8 @@
 
 [awesome-git](https://github.com/hylerrix/awesome-git) - 收集整理一些常用Git教程、工具の资源库
 
+[build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md) - Go语言讲解
+
 [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 中国独立开发者项目列表
 
 [CS-Notes-PDF](https://github.com/sjsdfg/CS-Notes-PDF) - 知识体系分享网站
@@ -21,6 +23,10 @@
 [StudyBooks](https://github.com/lizhenghn123/StudyBooks) - 一个包括书籍和网址的仓库
 
 [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) - 命令行的艺术
+
+[WebSiteUseful](https://github.com/loremwalker/WebSiteUseful) - 翻墙！冲出你的窗口
+
+[ZeroNet](https://github.com/HelloZeroNet/ZeroNet/blob/master/README-zh-cn.md) - 零网介绍
 
 ## 博客相关
 
@@ -40,6 +46,8 @@
 
 [Guzzle](https://github.com/guzzle/guzzle) - 一个PHP HTTP客户端扩展
 
+[phpdotenv](https://github.com/vlucas/phpdotenv) - 一个加载PHP配置的扩展方法库 env
+
 [QueryList](https://github.com/jae-jae/querylist) - 一个PHP采集框架
 
 [Snoopy](https://github.com/xmyl/Snoopy-2.0) - 一个PHP采集类
@@ -51,6 +59,8 @@
 [yii2-phpexcel/moonlandsoft](https://github.com/moonlandsoft/yii2-phpexcel) - 一个PHP导入导出Excel扩展
 
 [yii2-queue](https://github.com/yiisoft/yii2-queue) - 一个Yii2队列扩展
+
+[yii2-froala-editor](https://github.com/froala/yii2-froala-editor) - 一个Yii2集成的富文本编辑器
 
 [yii2-redactor](https://github.com/yiidoc/yii2-redactor) - 一个Yii2集成的富文本编辑器
 
@@ -67,3 +77,6 @@
 [Metasploit-framework](https://github.com/rapid7/metasploit-framework) - 一个渗透测试工具
 
 [geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
+
+[Stacer](https://github.com/oguzhaninan/Stacer) - Linux系统优化和监视
+
