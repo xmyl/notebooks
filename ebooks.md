@@ -24,6 +24,8 @@
 
 [Linux工具快速教程](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html)
 
+[PHP7内核剖析](https://github.com/pangudashu/php7-internal)
+
 [PHP扩展开发及内核应用](https://github.com/walu/phpbook)
 
 [PHP最佳实践（译）](https://phpbestpractices.justjavac.com/)
