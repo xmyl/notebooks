@@ -1,5 +1,7 @@
 # 电子书列表
 
+[看云书籍搜索](https://www.kancloud.cn/explore)
+
 ## 程序技术类
 
 [程序员的自我修养](https://leohxj.gitbooks.io/a-programmer-prepares/content/)
@@ -21,6 +23,8 @@
 [Linux内核文档（中文版）](https://tinylab.gitbooks.io/linux-doc/content/zh-cn/)
 
 [Linux工具快速教程](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html)
+
+[PHP扩展开发及内核应用](https://github.com/walu/phpbook)
 
 [PHP最佳实践（译）](https://phpbestpractices.justjavac.com/)
 

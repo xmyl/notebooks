@@ -82,6 +82,9 @@
 
 ## 学习类
 
-[中国大学MOOC](https://www.icourse163.org) - 中国大学MOOC网站
+[i春秋](https://www.ichunqiu.com/) - 春秋学院
 
 [掘金](https://juejin.im/) - 帮助开发者成长的社区
+
+[中国大学MOOC](https://www.icourse163.org) - 中国大学MOOC网站
+

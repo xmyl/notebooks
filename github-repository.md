@@ -46,6 +46,8 @@
 
 [Guzzle](https://github.com/guzzle/guzzle) - 一个PHP HTTP客户端扩展
 
+[PHP扩展开发及内核应用](https://github.com/walu/phpbook)
+
 [phpdotenv](https://github.com/vlucas/phpdotenv) - 一个加载PHP配置的扩展方法库 env
 
 [QueryList](https://github.com/jae-jae/querylist) - 一个PHP采集框架
