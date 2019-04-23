@@ -2,7 +2,7 @@
 
 ## 学习资料
 
-[awesome-git](https://github.com/hylerrix/awesome-git) - 收集整理一些常用Git教程、工具の资源库
+[awesome-git](https://github.com/hylerrix/awesome-git) - 收集整理一些常用Git教程、工具の资源库a
 
 [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md) - Go语言讲解
 

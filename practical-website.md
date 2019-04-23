@@ -4,6 +4,8 @@
 
 [幕布](https://mubu.com/) - 一款以层级折叠式文字来整理内容的大纲文档工具
 
+[资源库](https://www.leachchen.com/) - 资源小仓库
+
 [cvmaker](https://cvmkr.com/?lang=zh) - 免费创建、修改简历网站
 
 [bigjpg](http://bigjpg.com/) - AI人工智能图片放大平台
@@ -17,6 +19,10 @@
 [Shodan](https://www.shodan.io/) - 安全扫描引擎
 
 [Smallpdf](https://smallpdf.com/cn) - 功能一应俱全、简单好用的线上 PDF 工具
+
+[Teamviewer](https://www.teamviewer.com/cn/) - 远程控制软件
+
+[Typora](https://typora.io/) - 一款Markdown编辑器
 
 [UZER.ME](https://www.uzer.me/index.html) - 云端超级应用空间，包括Ai、PS、PPT、Excel等工具
 
@@ -36,12 +42,46 @@
 
 ## 音乐类
 
-[果汁音乐](http://guozhivip.com/yinyue/)
+[果汁音乐](http://guozhivip.com/yinyue/) - 在线音乐网站
+
+[疯狂音乐搜索](http://music.ifkdy.com/) - 一个音乐资源搜索网站
 
 ## 生活类
 
 [10分钟邮箱](https://bccto.me/) - 一个临时邮箱平台
 
+[爱彼迎](https://www.airbnb.cn/) - 全球名宿网站
+
+[疯狂影视搜索](http://ifkdy.com/) - 一个影视资源搜索网站
+
+[马蜂窝](https://www.mafengwo.cn/) - 旅游攻略、自助游攻略
+
+[天巡网](https://www.tianxun.com/) - 全球旅行搜索平台
+
+[网易严选](http://you.163.com/) - 网易购物网站
+
+[我爱分享](http://www.wwaaffxx.com/) - 百度云网盘资源搜索
+
+[下载街](http://www.xiazaij.com/) - 一个资源整合网站
+
+[岩兔站](https://yantuz.cn/) - 分享好玩的东西和免费的资源博客
+
 [中国铁路地图](https://www.shodan.io/) - 中国铁路地图线路图
 
 [ZCSSR翻墙平台](https://zcssr.me/) - 翻墙资源平台
+
+## 图片类
+
+[pixabay](https://pixabay.com/zh/) - 惊人的免费图片
+
+[旅途网](https://www.imgtrip.com/) - 提供各类图片服务的网站
+
+[优美图](http://topit.pro/) - 各类图片分享网站
+
+[优美图2](http://www.youmeitu.com/) - 中国最大的图库大全，分享高清、唯美的图片
+
+## 学习类
+
+[中国大学MOOC](https://www.icourse163.org) - 中国大学MOOC网站
+
+[掘金](https://juejin.im/) - 帮助开发者成长的社区

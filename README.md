@@ -8,7 +8,7 @@
 
 [Linux系统软件](./linux-software.md) - Linux系统下一些不错的软件
 
-[实用的网站](./practical-website.md) - 具有实用性的网站
+[实用性网站](./practical-website.md) - 具有实用性的网站
 
 [Ubuntu软件](./ubuntu-software.md)
 
