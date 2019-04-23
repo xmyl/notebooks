@@ -4,11 +4,17 @@
 
 [awesome-git](https://github.com/hylerrix/awesome-git) - 收集整理一些常用Git教程、工具の资源库
 
+[chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 中国独立开发者项目列表
+
+[CS-Notes-PDF](https://github.com/sjsdfg/CS-Notes-PDF) - 知识体系分享网站
+
 [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md) - 免费的书籍列表
 
 [FreeRouter_V2](https://github.com/lifetyper/FreeRouter_V2) - 一个适用于OpenWRT的全平台翻墙路由方案
 
 [Git-recipes](https://github.com/geeeeeeeeek/git-recipes/wiki) - Git知识讲解
+
+[new-pac](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95) - Linux系统翻墙方法
 
 [practical-programming-books](https://github.com/EZLippi/practical-programming-books) - 收录ig实用的计算机相关技术书籍
 
@@ -53,6 +59,10 @@
 ## 工具软件类
 
 [Awesome-Linux-Software-zh_CN](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) - 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地
+
+[Axel](https://github.com/axel-download-accelerator/axel) - Linux多线程下载工具
+
+[bcloud](https://github.com/XuShaohua/bcloud) - 百度网盘的Linux桌面客户端
 
 [Metasploit-framework](https://github.com/rapid7/metasploit-framework) - 一个渗透测试工具
 
