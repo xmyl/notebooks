@@ -4,6 +4,8 @@
 
 ## 程序技术类
 
+[编程之法：面试和算法心得](https://www.kancloud.cn/kancloud/the-art-of-programming/41632)
+
 [程序员的自我修养](https://leohxj.gitbooks.io/a-programmer-prepares/content/)
 
 [面向程序员的数据挖掘指南](https://dataminingguide.books.yourtion.com/)
