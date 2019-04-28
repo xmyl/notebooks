@@ -48,6 +48,8 @@
 
 ## 生活类
 
+[果汁每日一言](http://guozhivip.com/nav/yiyan.html) - 每日一言
+
 [10分钟邮箱](https://bccto.me/) - 一个临时邮箱平台
 
 [爱彼迎](https://www.airbnb.cn/) - 全球名宿网站
@@ -73,6 +75,10 @@
 ## 图片类
 
 [pixabay](https://pixabay.com/zh/) - 惊人的免费图片
+
+[pxhere](https://pxhere.com/) - 免费摄影图库
+
+[必应壁纸](https://bing.ioliu.cn/) - 每日高清壁纸
 
 [旅途网](https://www.imgtrip.com/) - 提供各类图片服务的网站
 
