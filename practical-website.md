@@ -2,9 +2,13 @@
 
 ## 工具类
 
+[apowersoft](https://www.apowersoft.cn/compress-file-online) - 在线文件压缩
+
 [幕布](https://mubu.com/) - 一款以层级折叠式文字来整理内容的大纲文档工具
 
 [资源库](https://www.leachchen.com/) - 资源小仓库
+
+[Convertio](https://convertio.co/zh/) - 文件转换器
 
 [cvmaker](https://cvmkr.com/?lang=zh) - 免费创建、修改简历网站
 
@@ -16,7 +20,11 @@
 
 [ProcessOn](https://www.processon.com/) - 一个在线作图工具的聚合平台，支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等
 
+[Photopea](https://www.photopea.com/) - 在线的Photoshop图像编辑工具
+
 [Shodan](https://www.shodan.io/) - 安全扫描引擎
+
+[LightPDF](https://lightpdf.com/zh/) - 免费在线PDF编辑
 
 [Smallpdf](https://smallpdf.com/cn) - 功能一应俱全、简单好用的线上 PDF 工具
 
