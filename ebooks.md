@@ -46,3 +46,5 @@
 
 [复杂性思维（中文第二版）](https://wizardforcel.gitbooks.io/think-comp-2e/content/)
 
+[Chrome插件英雄榜](https://zhaoolee.gitbooks.io/chrome/content/)
+
