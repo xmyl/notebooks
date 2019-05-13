@@ -48,6 +48,8 @@
 
 [现实君工具箱](http://tool.uixsj.cn/) - 工具箱集合网站
 
+[小呆导航](https://webjike.com/) - 资源导航网站
+
 ## 音乐类
 
 [果汁音乐](http://guozhivip.com/yinyue/) - 在线音乐网站
@@ -102,3 +104,14 @@
 
 [中国大学MOOC](https://www.icourse163.org) - 中国大学MOOC网站
 
+## 域名类
+
+[X情报社区](https://x.threatbook.cn/)
+
+[ChinaZ.com](http://whois.chinaz.com/)
+
+[FindSubdomains](https://findsubdomains.com/)
+
+[Netcraft](https://searchdns.netcraft.com/)
+
+[VirusTotal](https://www.virustotal.com/#/home/search)
