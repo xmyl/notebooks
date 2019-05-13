@@ -6,6 +6,8 @@
 
 [SteveWang-博客园](https://www.cnblogs.com/eniac12/) - 技术博客
 
+[WebShell'S Blog](https://www.webshell.cc/) - 技术博客
+
 [暗月博客](http://www.moonsec.com/) - 技术博客
 
 [风雪之隅](http://www.laruence.com/) - 个人技术博客
