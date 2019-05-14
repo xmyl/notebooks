@@ -108,6 +108,8 @@
 
 [X情报社区](https://x.threatbook.cn/)
 
+[Bugscaner](http://whatweb.bugscaner.com/)
+
 [ChinaZ.com](http://whois.chinaz.com/)
 
 [FindSubdomains](https://findsubdomains.com/)

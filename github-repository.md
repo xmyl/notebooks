@@ -82,3 +82,5 @@
 
 [Stacer](https://github.com/oguzhaninan/Stacer) - Linux系统优化和监视
 
+[SSR翻墙工具](https://github.com/erguotou520/electron-ssr/releases) - Github翻墙工具
+
