@@ -84,3 +84,4 @@
 
 [SSR翻墙工具](https://github.com/erguotou520/electron-ssr/releases) - Github翻墙工具
 
+[百度网盘客户端 - Go语言编写](https://github.com/iikira/BaiduPCS-Go)
