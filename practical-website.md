@@ -50,6 +50,18 @@
 
 [小呆导航](https://webjike.com/) - 资源导航网站
 
+[龙猫导航](http://ailongmiao.com/) - 资源导航网站（优惠券）
+
+[五花八门](http://lxqnsys.com/d/) - 资源导航网站
+
+[爱达杂货铺](https://adzhp.cn/) - 收集那些有用的东西
+
+[98导航](http://98dh.cc/) - 分类导航
+
+[Chrome插件](http://chromecj.com/) - 浏览器插件
+
+[在线工具](https://tool.lu/) - 程序开发类工具
+
 ## 音乐类
 
 [果汁音乐](http://guozhivip.com/yinyue/) - 在线音乐网站
@@ -61,6 +73,8 @@
 [果汁每日一言](http://guozhivip.com/nav/yiyan.html) - 每日一言
 
 [10分钟邮箱](https://bccto.me/) - 一个临时邮箱平台
+
+[在线短信](https://www.pdflibr.com/) - 短信接收平台
 
 [爱彼迎](https://www.airbnb.cn/) - 全球名宿网站
 

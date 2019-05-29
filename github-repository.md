@@ -16,6 +16,8 @@
 
 [Git-recipes](https://github.com/geeeeeeeeek/git-recipes/wiki) - Git知识讲解
 
+[Github星聚弃疗榜](https://github.com/zhaoolee/StarsAndClown) - 让吃瓜群众也能享受Github带来的乐趣
+
 [new-pac](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95) - Linux系统翻墙方法
 
 [practical-programming-books](https://github.com/EZLippi/practical-programming-books) - 收录ig实用的计算机相关技术书籍
@@ -84,4 +86,4 @@
 
 [SSR翻墙工具](https://github.com/erguotou520/electron-ssr/releases) - Github翻墙工具
 
-[百度网盘客户端 - Go语言编写](https://github.com/iikira/BaiduPCS-Go)
+[BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘命令行客户端-Go
