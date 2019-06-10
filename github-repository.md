@@ -2,6 +2,8 @@
 
 ## 学习资料
 
+[architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
+
 [awesome-git](https://github.com/hylerrix/awesome-git) - 收集整理一些常用Git教程、工具の资源库a
 
 [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md) - Go语言讲解
@@ -77,6 +79,8 @@
 [Axel](https://github.com/axel-download-accelerator/axel) - Linux多线程下载工具
 
 [bcloud](https://github.com/XuShaohua/bcloud) - 百度网盘的Linux桌面客户端
+
+[best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的Windows应用
 
 [Metasploit-framework](https://github.com/rapid7/metasploit-framework) - 一个渗透测试工具
 
