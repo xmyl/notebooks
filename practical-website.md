@@ -8,6 +8,8 @@
 
 [V2EX](https://www.v2ex.com/)
 
+[SegmentFault思否](https://segmentfault.com/)
+
 [Stack Overflow](https://stackoverflow.com/)
 
 [掘金](https://juejin.im/)
