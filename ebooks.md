@@ -4,7 +4,11 @@
 
 ## 程序技术类
 
+[笨办法学Linux 中文版](https://wizardforcel.gitbooks.io/llthw/content/)
+
 [编程之法：面试和算法心得](https://www.kancloud.cn/kancloud/the-art-of-programming/41632)
+
+[程序员的数学](http://pdf.timgle.com/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A6.pdf)
 
 [程序员的自我修养](https://leohxj.gitbooks.io/a-programmer-prepares/content/)
 
@@ -21,6 +25,10 @@
 [这本书能让你连接互联网](https://loremwalker.github.io/fq-book/#/README)
 
 [JavaScript编程精解 中文第三版](https://wizardforcel.gitbooks.io/eloquent-js-3e/content/)
+
+[Kali Linux Web 渗透测试秘籍 中文版](https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/)
+
+[Kali Linux 秘籍](https://wizardforcel.gitbooks.io/kali-linux-cookbook/content/)
 
 [Linux内核文档（中文版）](https://tinylab.gitbooks.io/linux-doc/content/zh-cn/)
 
