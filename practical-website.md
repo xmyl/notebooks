@@ -52,6 +52,8 @@
 
 [windows版本的小众软件](https://love.appinn.com/) - Windows版的小众软件集合
 
+[WebTorrent](https://webtorrent.io/desktop/)
+
 ## 导航类
 
 [创造狮导航](http://www.chuangzaoshi.com/) - 为创意工作者而设计
