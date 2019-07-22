@@ -24,6 +24,8 @@
 
 [这本书能让你连接互联网](https://loremwalker.github.io/fq-book/#/README)
 
+[Burp Suite实战指南](https://t0data.gitbooks.io/burpsuite/content/)
+
 [JavaScript编程精解 中文第三版](https://wizardforcel.gitbooks.io/eloquent-js-3e/content/)
 
 [Kali Linux Web 渗透测试秘籍 中文版](https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/)
