@@ -32,7 +32,7 @@
 
 [ZeroNet](https://github.com/HelloZeroNet/ZeroNet/blob/master/README-zh-cn.md) - 零网介绍
 
-## 博客相关
+## 博客
 
 [Typecho](https://github.com/typecho/typecho) - 博客框架
 
@@ -40,7 +40,7 @@
 
 [Typecho的pinghsu主题](https://github.com/chakhsu/pinghsu) - 一个typecho主题
 
-## PHP相关
+## PHP
 
 [arithmetic-php](https://github.com/m9rco/arithmetic-php) - PHP方式实现的各类算法合集
 
@@ -72,7 +72,7 @@
 
 [yii2-starter-kit](https://github.com/yii2-starter-kit/yii2-starter-kit) - 一个Yii2快速研发的框架
 
-## 工具软件类
+## 工具软件
 
 [Awesome-Linux-Software-zh_CN](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) - 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地
 
