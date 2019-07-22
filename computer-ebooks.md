@@ -38,6 +38,8 @@
 
 [Python进阶](https://eastlakeside.gitbooks.io/interpy-zh/content/)
 
+[Python学习指南](https://www.cnblogs.com/miqi1992/p/8082471.html)
+
 ## Redis
 
 [Redis设计与实现（第一版）](http://origin.redisbook.com/)
