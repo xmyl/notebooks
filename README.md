@@ -12,3 +12,11 @@
 
 [Ubuntu软件](./ubuntu-software.md)
 
+[基础知识](./zhishi.md)
+
+[渗透教程](./shentou.md)
+
+
+
+
+
