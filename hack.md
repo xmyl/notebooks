@@ -10,11 +10,17 @@
 
 Burp Suite 官方文档的中文版：[项目地址](https://github.com/yw9381/Burp_Suite_Doc_zh_cn)
 
+[i春秋Burp Suite专题](https://bbs.ichunqiu.com/thread-34295-1-4.html)
+
 ## Kali-linux
 
 [Kali Linux Web 渗透测试秘籍 中文版](https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/)
 
 [Kali Linux 秘籍](https://wizardforcel.gitbooks.io/kali-linux-cookbook/content/)
+
+## Nmap
+
+[nmap使用](https://github.com/jidongdeatao/Security-Tools-List/tree/master/Nmap)
 
 ## 其它
 
