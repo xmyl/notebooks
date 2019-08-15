@@ -2,6 +2,12 @@
 
 [看云书籍搜索](https://www.kancloud.cn/explore)
 
+## Git
+
+[Git分支管理策略](http://www.ruanyifeng.com/blog/2012/07/git.html)
+
+[廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+
 ## JavaScript
 
 [JavaScript编程精解 中文第三版](https://wizardforcel.gitbooks.io/eloquent-js-3e/content/)

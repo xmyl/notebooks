@@ -22,6 +22,10 @@ Burp Suite 官方文档的中文版：[项目地址](https://github.com/yw9381/B
 
 [nmap使用](https://github.com/jidongdeatao/Security-Tools-List/tree/master/Nmap)
 
+## SqlMap
+
+[sqlmap手册](https://github.com/sqlmapproject/sqlmap/wiki/Usage)
+
 ## 其它
 
 [渗透Micro8](https://micro8.gitbook.io/micro8/)
