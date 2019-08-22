@@ -4,6 +4,8 @@
 
 ## Git
 
+[Git使用规范流程](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html)
+
 [Git分支管理策略](http://www.ruanyifeng.com/blog/2012/07/git.html)
 
 [廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
@@ -21,6 +23,10 @@
 [Linux内核文档（中文版）](https://tinylab.gitbooks.io/linux-doc/content/zh-cn/)
 
 [Linux工具快速教程](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html)
+
+## Nginx
+
+[Nginx中文文档](http://www.nginx.cn/doc/index.html)
 
 ## PHP
 
