@@ -10,6 +10,8 @@
 
 [廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 
+[Git飞行规则](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
+
 ## JavaScript
 
 [JavaScript编程精解 中文第三版](https://wizardforcel.gitbooks.io/eloquent-js-3e/content/)
