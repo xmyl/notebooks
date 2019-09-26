@@ -10,6 +10,8 @@
 
 [实用性网站](./practical-website.md) - 具有实用性的网站
 
+[开发工具](./software-doc.md)-研发工具
+
 [Ubuntu软件](./ubuntu-software.md)
 
 [基础知识](./zhishi.md)
