@@ -28,8 +28,8 @@
 >
 > SideBarEnhancements 侧边栏功能增强插件
 >
-> Sublimelinter [语法检测插件](https%3A%2F%2Fgithub.com%2FSublimeLinter%2FSublimeLinter)
+> Sublimelinter [语法检测插件](https://github.com/SublimeLinter/SublimeLinter)
 >
-> Sublimelinter-php [PHP语法检测插件](https%3A%2F%2Fgithub.com%2FSublimeLinter%2FSublimeLinter-php)
+> Sublimelinter-php [PHP语法检测插件](https://github.com/SublimeLinter/SublimeLinter-php)
 >
 > SFTP 远程连接插件
