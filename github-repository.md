@@ -42,6 +42,8 @@
 
 ## PHP
 
+[2amigos / qrcode-library](https://github.com/2amigos/qrcode-library) - 强大的二维码识别生成库，支持Yii2
+
 [arithmetic-php](https://github.com/m9rco/arithmetic-php) - PHP方式实现的各类算法合集
 
 [ezyang/htmlpurifier](https://github.com/ezyang/htmlpurifier) - 一个PHP编写的HTML标签过滤器
@@ -54,19 +56,31 @@
 
 [phpdotenv](https://github.com/vlucas/phpdotenv) - 一个加载PHP配置的扩展方法库 env
 
+[php-qrcode-detector-decoder](https://github.com/khanamiryan/php-qrcode-detector-decoder) - PHP二维码识别库
+
 [QueryList](https://github.com/jae-jae/querylist) - 一个PHP采集框架
 
 [Snoopy](https://github.com/xmyl/Snoopy-2.0) - 一个PHP采集类
 
+[Xunsearch](https://github.com/hightman/xunsearch) - 中文搜索引擎
+
+[yiisoft/yii2-authclient](https://github.com/yiisoft/yii2-authclient) - Yii2 authclient
+
+[yii2-admin](https://github.com/mdmsoft/yii2-admin) - Yii2 RBAC管理
+
 [yii2-httpclient](https://github.com/yiisoft/yii2-httpclient) - 一个Yii2的http扩展库
 
-[yii2-json-behavior](https://github.com/paulzi/yii2-json-behavior)- 一个Yii2的json行为扩展
+[yiisoft / yii2-imagine](https://github.com/yiisoft/yii2-imagine)
 
-[yii2-phpexcel/moonlandsoft](https://github.com/moonlandsoft/yii2-phpexcel) - 一个PHP导入导出Excel扩展
+[paulzi/yii2-json-behavior](https://github.com/paulzi/yii2-json-behavior)- 一个Yii2的json行为扩展
+
+[moonlandsoft/yii2-phpexcel](https://github.com/moonlandsoft/yii2-phpexcel) - 一个PHP导入导出Excel扩展
 
 [yii2-queue](https://github.com/yiisoft/yii2-queue) - 一个Yii2队列扩展
 
-[yii2-froala-editor](https://github.com/froala/yii2-froala-editor) - 一个Yii2集成的富文本编辑器
+[yiisoft / yii2-redis](https://github.com/yiisoft/yii2-redis) - Yii2-redis扩展
+
+[froala/yii2-froala-editor](https://github.com/froala/yii2-froala-editor) - 一个Yii2集成的富文本编辑器
 
 [yii2-redactor](https://github.com/yiidoc/yii2-redactor) - 一个Yii2集成的富文本编辑器
 
