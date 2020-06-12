@@ -2,15 +2,25 @@
 
 1.SwitchHosts - 切换hosts工具
 
-2.phpstudy
+2.phpstudy/phpenv
 
-3.Navicat for MySQL
+3.Navicat for MySQL/Navicat Premium 15
 
-4.Git
+4.Git/gogs
 
 5.Chrome浏览器
 
-6.Sublime
+6.Typora Markdown编辑器
+
+7.GoLand/VS Code
+
+8.Utool
+
+9.Axure RP 8
+
+10.ApiPost/Postman
+
+10.Sublime
 
 > ChineseLocalizations 中文支持插件
 >
