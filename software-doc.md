@@ -1,26 +1,22 @@
 # 常用工具及配置
 
-1.SwitchHosts - 切换hosts工具
+1. SwitchHosts - 切换hosts工具
 
-2.phpstudy/phpenv
+2. phpstudy/phpenv
+3. Navicat for MySQL/Navicat Premium 15
 
-3.Navicat for MySQL/Navicat Premium 15
+4. Git/gogs
+5. Chrome浏览器
 
-4.Git/gogs
+6. Typora Markdown编辑器
 
-5.Chrome浏览器
+7. GoLand/VS Code
 
-6.Typora Markdown编辑器
+8. Utool
 
-7.GoLand/VS Code
-
-8.Utool
-
-9.Axure RP 8
-
-10.ApiPost/Postman
-
-10.Sublime
+9. Axure RP 8
+10. ApiPost/Postman
+11. Sublime
 
 > ChineseLocalizations 中文支持插件
 >
@@ -43,3 +39,5 @@
 > Sublimelinter-php [PHP语法检测插件](https://github.com/SublimeLinter/SublimeLinter-php)
 >
 > SFTP 远程连接插件
+
+12.snipastetie截图工具
